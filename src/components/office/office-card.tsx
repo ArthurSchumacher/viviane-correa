@@ -1,3 +1,5 @@
+'use client';
+
 import { Button, Card, CardBody, Link, Image } from "@nextui-org/react";
 import Title from "../common/title";
 import paths from "@/paths";
@@ -15,7 +17,7 @@ export default function OfficeCard() {
                 <CardBody className="flex md:flex-row flex-col items-center">
                     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
                         <Image
-                            src="/apto-jenifer-16.png"
+                            src="/Apto-jenifer-16.png"
                             alt="Foto de banheiro moderno"
                             width={720}
                             height={600}
@@ -43,7 +45,7 @@ export default function OfficeCard() {
 
                         <div className="flex justify-center w-1/2 sm:w-full mb-8">
                             <Image
-                                src="/img/viviane-logo.png"
+                                src="/viviane-logo.png"
                                 alt="Viviane Corrêa Logo"
                                 width={230}
                                 height={100}
