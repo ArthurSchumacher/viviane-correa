@@ -21,7 +21,7 @@ export default function ContactInfo() {
             </div>
             <div className="md:w-1/2 w-full flex flex-col gap-y-8 items-center justify-center">
                 <Image
-                    src={'/img/apto-44-2.png'}
+                    src={'/apto-44-2.png'}
                     alt="Imagem para contato"
                     className="object-cover object-center rounded-tr-full rounded-tl-full"
                     width={600}
