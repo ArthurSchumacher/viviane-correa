@@ -17,7 +17,7 @@ export default function OfficeSection() {
                 </div>
                 <div className="flex items-center justify-center w-full sm:w-1/2 mx-auto order-first sm:order-none">
                     <Image
-                        src={'/img/apto-jenifer-4.jpeg'}
+                        src={'/img/apto-jenifer-4.png'}
                         alt="Foto de uma sala"
                         className="object-cover object-center max-w-sm"
                     />
@@ -26,7 +26,7 @@ export default function OfficeSection() {
             <div className="flex flex-col sm:flex-row flex-wrap gap-y-4">
                 <div className="flex items-center justify-center w-full sm:w-1/2 mx-auto">
                     <Image
-                        src={'/img/apto-jenifer-10.jpeg'}
+                        src={'/img/apto-jenifer-10.png'}
                         alt="Foto de uma cozinha"
                         className="object-cover object-center max-w-sm"
                     />
