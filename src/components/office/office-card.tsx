@@ -1,5 +1,3 @@
-'use client';
-
 import { Button, Card, CardBody, Link, Image } from "@nextui-org/react";
 import Title from "../common/title";
 import paths from "@/paths";
@@ -19,8 +17,6 @@ export default function OfficeCard() {
                         <Image
                             src="/Apto-jenifer-16.png"
                             alt="Foto de banheiro moderno"
-                            width={720}
-                            height={600}
                             className="object-cover object-center rounded-lg"
                         />
                     </div>

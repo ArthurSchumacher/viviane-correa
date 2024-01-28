@@ -1,5 +1,3 @@
-'use client';
-
 import { Image } from "@nextui-org/react";
 
 export default function OfficeSection() {
@@ -22,8 +20,6 @@ export default function OfficeSection() {
                         src="/Apto-jenifer-4.png"
                         alt="Foto de uma sala"
                         className="object-cover object-center max-w-sm"
-                        width={820}
-                        height={1024}
                     />
                 </div>
             </div>
@@ -33,8 +29,6 @@ export default function OfficeSection() {
                         src="/Apto-jenifer-10.png"
                         alt="Foto de uma cozinha"
                         className="object-cover object-center max-w-sm"
-                        width={820}
-                        height={1024}
                     />
                 </div>
                 <div className="flex flex-col items-center justify-center w-full sm:w-1/2 text-justify">

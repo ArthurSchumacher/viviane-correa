@@ -1,6 +1,6 @@
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Image from 'next/image';
+import { Image } from "@nextui-org/react";
 
 export default function AboutSection() {
     return (
@@ -35,8 +35,6 @@ export default function AboutSection() {
                 <Image
                     alt="feature"
                     className="object-cover object-center rounded-lg mx-auto max-h-unit-8xl"
-                    width={512}
-                    height={512}
                     src={'/viviane-perfil.jpg'}
                 />
             </div>
