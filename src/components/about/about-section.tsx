@@ -31,7 +31,7 @@ export default function AboutSection() {
                     </p>
                 </div>
             </div>
-            <div className="lg:max-w-lg lg:w-full w-5/6 flex items-center justify-center">
+            <div className="lg:max-w-lg lg:w-full w-5/6 flex items-center justify-center order-first sm:order-none">
                 <Image
                     alt="feature"
                     className="object-cover object-center rounded-lg mx-auto max-h-unit-8xl"
