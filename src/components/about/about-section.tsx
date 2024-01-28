@@ -35,8 +35,8 @@ export default function AboutSection() {
                 <Image
                     alt="feature"
                     className="object-cover object-center rounded-lg mx-auto max-h-unit-8xl"
-                    width={460}
-                    height={500}
+                    width={4627}
+                    height={6941}
                     src={'/viviane-perfil.jpg'}
                 />
             </div>
