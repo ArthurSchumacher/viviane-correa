@@ -1,5 +1,4 @@
-import { Button, Card, CardBody, Link } from "@nextui-org/react";
-import Image from "next/image";
+import { Button, Card, CardBody, Link, Image } from "@nextui-org/react";
 import Title from "../common/title";
 import paths from "@/paths";
 
