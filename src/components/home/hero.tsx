@@ -59,19 +59,19 @@ export default function Hero() {
   return (
     <div ref={sliderRef} className="keen-slider">
       <div className="keen-slider__slide number-slide1 w-full min-h-screen">
-        <Image src={'/img/viviane-hero-1.png'} alt="Hero Image 1" radius="none" className="object-cover object-center" />
+        <Image src="/viviane-hero-1.png" alt="Hero Image 1" radius="none" className="object-cover object-center" />
       </div>
       <div className="keen-slider__slide number-slide2 w-full min-h-screen">
-        <Image src={'/img/apto-44-6.png'} alt="Hero Image 2" radius="none" className="object-cover object-center" />
+        <Image src="/apto-44-6.png" alt="Hero Image 2" radius="none" className="object-cover object-center" />
       </div>
       <div className="keen-slider__slide number-slide2 w-full min-h-screen">
-        <Image src={'/img/apto-44-11.png'} alt="Hero Image 3" radius="none" className="object-cover object-center" />
+        <Image src="/apto-44-11.png" alt="Hero Image 3" radius="none" className="object-cover object-center" />
       </div>
       <div className="keen-slider__slide number-slide2 w-full min-h-screen">
-        <Image src={'/img/apto-44-16.png'} alt="Hero Image 4" radius="none" className="object-cover object-center" />
+        <Image src="/apto-44-16.png" alt="Hero Image 4" radius="none" className="object-cover object-center" />
       </div>
       <div className="keen-slider__slide number-slide2 w-full min-h-screen">
-        <Image src={'/img/apto-44-10.png'} alt="Hero Image 5" radius="none" className="object-cover object-center" />
+        <Image src="/apto-44-10.png" alt="Hero Image 5" radius="none" className="object-cover object-center" />
       </div>
       {/* {loaded && instanceRef.current && (
         <>

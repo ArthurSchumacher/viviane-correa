@@ -23,7 +23,7 @@ export default function AboutOffice() {
                 </div>
                 <div className="flex items-center justify-center w-full sm:w-1/2 mx-auto order-first sm:order-none">
                     <Image
-                        src={'/img/viviane-quarto-rosa-1.png'}
+                        src="/viviane-quarto-rosa-1.png"
                         alt="Foto de um quarto feminino"
                         className="object-cover object-center max-w-sm"
                     />
@@ -32,7 +32,7 @@ export default function AboutOffice() {
             <div className="flex flex-col sm:flex-row flex-wrap gap-y-4">
                 <div className="flex items-center justify-center w-full sm:w-1/2 mx-auto">
                     <Image
-                        src={'/img/viviane-quarto-rosa-2.png'}
+                        src="/viviane-quarto-rosa-2.png"
                         alt="Foto de um quarto feminino 2"
                         className="object-cover object-center max-w-sm"
                     />

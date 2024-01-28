@@ -29,7 +29,7 @@ export default function App() {
       <NavbarContent className="sm:hidden" justify="start">
         <NavbarBrand>
           <Image
-            src={'/img/viviane-logo.png'}
+            src="/viviane-logo.png"
             alt="Viviane Corrêa Logo"
             className="w-32"
             width={128}
@@ -41,7 +41,7 @@ export default function App() {
       <NavbarContent className="hidden sm:flex" justify="start">
         <NavbarBrand>
           <Image
-            src={'/img/viviane-logo.png'}
+            src="/viviane-logo.png"
             alt="Viviane Corrêa Logo"
             className="w-36"
             width={144}
