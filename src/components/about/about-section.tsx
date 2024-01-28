@@ -4,7 +4,7 @@ import { Image } from "@nextui-org/react";
 
 export default function AboutSection() {
     return (
-        <div className="flex lg:flex-row flex-col items-center gap-x-8">
+        <div className="flex lg:flex-row flex-col items-center gap-8">
             <div className="lg:flex-grow md:w-full flex flex-col md:items-start md:text-left items-center text-center">
                 <h1 className="text-2xl sm:text-3xl text-neutral-950 inline-flex items-center justify-center">
                     <FontAwesomeIcon icon={faChevronRight} className="w-8 h-8" />
